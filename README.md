@@ -1,5 +1,7 @@
 #  Лабораторные
 [1. Переменные и типы данных](https://github.com/Dimdim28/Lab1-Datatype)
+[2. Базовый синтаксис JavaScript](https://github.com/Dimdim28/Lab2-reusable)
+
 # 2 неделя
 
 [Абстракции и их переиспользование](https://github.com/Dimdim28/homework-2-week-abstractions) <br>
