@@ -1,6 +1,6 @@
 #  Лабораторные
-[1. Переменные и типы данных](https://github.com/Dimdim28/Lab1-Datatype)
-[2. Базовый синтаксис JavaScript](https://github.com/Dimdim28/Lab2-reusable)
+[1. Переменные и типы данных](https://github.com/Dimdim28/Lab1-Datatype)<br>
+[2. Базовый синтаксис JavaScript](https://github.com/Dimdim28/Lab2-reusable)<br>
 
 # 2 неделя
 
