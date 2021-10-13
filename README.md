@@ -3,6 +3,8 @@
 [2. Базовый синтаксис JavaScript](https://github.com/Dimdim28/Lab2-reusable)<br>
 [3. Функции и методы](https://github.com/Dimdim28/Lab1-Functions-and-methods) <br>
 [4. Итерирование](https://github.com/Dimdim28/-Lab4-Iteration.git) <br>
+[5.Замыкания и чеининг](https://github.com/Dimdim28/Lab5-Closure) <br>
+
 
 
 
