@@ -2,6 +2,8 @@
 [1. Переменные и типы данных](https://github.com/Dimdim28/Lab1-Datatype)<br>
 [2. Базовый синтаксис JavaScript](https://github.com/Dimdim28/Lab2-reusable)<br>
 [3. Функции и методы](https://github.com/Dimdim28/Lab1-Functions-and-methods) <br>
+[4. Итерирование](https://github.com/Dimdim28/-Lab4-Iteration.git) <br>
+
 
 
 # 2 неделя
