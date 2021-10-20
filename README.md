@@ -23,3 +23,5 @@
 
 # 4 неделя
 [Частичное применение и каррирование в JavaScript](https://github.com/Dimdim28/Homework-4-week-curry) <br>
+[Функции высшего порядка в JavaScript](https://github.com/Dimdim28/Homework-4-week-HigherOrderFunction/tree/master/Exercises) <br>
+
