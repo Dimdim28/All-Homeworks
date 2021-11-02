@@ -13,6 +13,8 @@
 
 [Моя автопроверка](https://github.com/Dimdim28/autocheck) <br>
 [Работа с файлами](https://github.com/Dimdim28/files) <br>
+[prompt и матрицы](https://github.com/Dimdim28/matrix/blob/master/matrix.js) <br>
+
 
 
 
