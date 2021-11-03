@@ -13,7 +13,9 @@
 
 [Моя автопроверка](https://github.com/Dimdim28/autocheck) <br>
 [Работа с файлами](https://github.com/Dimdim28/files) <br>
-[prompt и матрицы](https://github.com/Dimdim28/matrix/blob/master/matrix.js) <br>
+[prompt и матрицы](https://github.com/Dimdim28/matrix) <br>
+[escape последовательности и цвета в консоли](https://github.com/Dimdim28/escape) <br>
+
 
 
 
