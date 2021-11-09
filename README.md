@@ -16,6 +16,8 @@
 [prompt и матрицы](https://github.com/Dimdim28/matrix) <br>
 [escape последовательности и цвета в консоли](https://github.com/Dimdim28/escape) <br>
 [promise и чеининг](https://github.com/Dimdim28/chaining) <br>
+[таймеры](https://github.com/Dimdim28/timers) <br>
+
 
 
 
