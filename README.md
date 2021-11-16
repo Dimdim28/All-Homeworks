@@ -18,6 +18,7 @@
 [promise и чеининг](https://github.com/Dimdim28/chaining) <br>
 [таймеры](https://github.com/Dimdim28/timers) <br>
 [События](https://github.com/Dimdim28/events) <br>
+[Асинхронный ввод с клавиатуры и авторизация](https://github.com/Dimdim28/files-input/commit/3f0d749ebdab475ca81bc90c86ff2153111ac188) <br>
 
 
 
