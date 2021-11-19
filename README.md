@@ -43,3 +43,9 @@
 
 [Итерирование](https://github.com/Dimdim28/8-week-iteration) <br>
 
+# 10 неделя
+
+[Молчаливый](https://github.com/Dimdim28/array/tree/master/Arrays-master/Exercises) <br>
+
+
+
