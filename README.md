@@ -47,5 +47,11 @@
 
 [Массивы](https://github.com/Dimdim28/array/tree/master/Arrays-master/Exercises) <br>
 
+# 12 неделя
+
+[Сериализация и десериализация в JavaScript и Node.js](https://github.com/Dimdim28/serialize) <br>
+
+
+
 
 
