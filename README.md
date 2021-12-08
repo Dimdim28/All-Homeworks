@@ -22,6 +22,11 @@
 [События](https://github.com/Dimdim28/events) <br>
 [Асинхронный ввод с клавиатуры и авторизация](https://github.com/Dimdim28/files-input/commit/3f0d749ebdab475ca81bc90c86ff2153111ac188) <br>
 
+#  еще в процессе создания...
+
+[Парсер на cheerio (на примере сайта EpicGames)](https://github.com/Dimdim28/parser_from_EpicGames) <br>
+[создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
+
 
 
 # 2 неделя
