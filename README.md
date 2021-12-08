@@ -4,7 +4,7 @@
 [3. Функции и методы](https://github.com/Dimdim28/Lab1-Functions-and-methods) <br>
 [4. Итерирование](https://github.com/Dimdim28/-Lab4-Iteration.git) <br>
 [5.Замыкания и чеининг](https://github.com/Dimdim28/Lab5-Closure) <br>
-[6.Композиция функций(пусто)](https://github.com/Dimdim28/Lab5-Closure) <br>
+[6.Композиция функций](https://github.com/Dimdim28/Lab6-compos) <br>
 [7. Работа с массивами](https://github.com/Dimdim28/Lab7-array) <br>
 
 
