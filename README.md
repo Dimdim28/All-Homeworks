@@ -6,6 +6,8 @@
 [5.Замыкания и чеининг](https://github.com/Dimdim28/Lab5-Closure) <br>
 [6.Композиция функций](https://github.com/Dimdim28/Lab6-compos) <br>
 [7. Работа с массивами](https://github.com/Dimdim28/Lab7-array) <br>
+[8. функции высшего порядка](https://github.com/Dimdim28/Lab8-highOrderfFunctions) <br>
+
 
 
 
