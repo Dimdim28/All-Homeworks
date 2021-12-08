@@ -51,6 +51,11 @@
 
 [Сериализация и десериализация в JavaScript и Node.js](https://github.com/Dimdim28/serialize) <br>
 
+# 14 неделя
+
+[pipe and compose](https://github.com/Dimdim28/Homework-14-week-pipe-compose) <br>
+
+
 
 
 
