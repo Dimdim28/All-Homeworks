@@ -23,6 +23,7 @@
 [События](https://github.com/Dimdim28/events) <br>
 [MixIn](https://github.com/Dimdim28/mixin) <br>
 [Proto](https://github.com/Dimdim28/proto) <br>
+[Pools, fabrics](https://github.com/Dimdim28/Pools_fabrics) <br>
 
 
 #  еще в процессе создания...
