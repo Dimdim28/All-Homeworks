@@ -13,16 +13,17 @@
 
 #  Дополнительная работа))
 
-[Моя автопроверка](https://github.com/Dimdim28/autocheck) <br>
-[Работа с файлами](https://github.com/Dimdim28/files) <br>
-[prompt и матрицы](https://github.com/Dimdim28/matrix) <br>
-[escape последовательности и цвета в консоли](https://github.com/Dimdim28/escape) <br>
+[1   Моя автопроверка](https://github.com/Dimdim28/autocheck) <br>
+[2   Работа с файлами](https://github.com/Dimdim28/files) <br>
+[3   prompt и матрицы](https://github.com/Dimdim28/matrix) <br>
+[4   escape последовательности и цвета в консоли](https://github.com/Dimdim28/escape) <br>
+[5   Асинхронный ввод с клавиатуры и авторизация](https://github.com/Dimdim28/files-input/commit/3f0d749ebdab475ca81bc90c86ff2153111ac188) <br>
 [promise и чеининг](https://github.com/Dimdim28/chaining) <br>
 [таймеры](https://github.com/Dimdim28/timers) <br>
 [События](https://github.com/Dimdim28/events) <br>
 [MixIn](https://github.com/Dimdim28/mixin) <br>
 [Proto](https://github.com/Dimdim28/proto) <br>
-[Асинхронный ввод с клавиатуры и авторизация](https://github.com/Dimdim28/files-input/commit/3f0d749ebdab475ca81bc90c86ff2153111ac188) <br>
+
 
 #  еще в процессе создания...
 
