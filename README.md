@@ -30,6 +30,10 @@
 
 [Парсер на cheerio (на примере сайта EpicGames)](https://github.com/Dimdim28/parser_from_EpicGames) <br>
 [создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
+[Телеграм бот](https://github.com/Dimdim28/telegram_bot) <br>
+
+
+
 
 
 
