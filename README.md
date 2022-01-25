@@ -11,7 +11,7 @@
 
 
 
-#  Дополнительная работа))
+#  Дополнительная работа
 
 [1   Моя автопроверка](https://github.com/Dimdim28/autocheck) <br>
 [2   Работа с файлами](https://github.com/Dimdim28/files) <br>
@@ -25,14 +25,14 @@
 [Proto](https://github.com/Dimdim28/proto) <br>
 [Pools, fabrics](https://github.com/Dimdim28/Pools_fabrics) <br>
 [Телеграм бот](https://github.com/Dimdim28/telegram_bot) <br>
+[создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
+
 
 
 
 #  еще в процессе создания...
 
 [Парсер на cheerio (на примере сайта EpicGames)](https://github.com/Dimdim28/parser_from_EpicGames) <br>
-[создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
-
 
 
 # 2 неделя
