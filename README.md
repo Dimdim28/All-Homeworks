@@ -26,7 +26,7 @@
 [Pools, fabrics](https://github.com/Dimdim28/Pools_fabrics) <br>
 [Телеграм бот](https://github.com/Dimdim28/telegram_bot) <br>
 [создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
-
+[collections(weak,map,weakmap)](https://github.com/Dimdim28/collections) <br>
 
 
 
