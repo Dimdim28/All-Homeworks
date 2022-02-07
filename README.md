@@ -18,15 +18,15 @@
 [3   prompt и матрицы](https://github.com/Dimdim28/matrix) <br>
 [4   escape последовательности и цвета в консоли](https://github.com/Dimdim28/escape) <br>
 [5   Асинхронный ввод с клавиатуры и авторизация](https://github.com/Dimdim28/files-input/commit/3f0d749ebdab475ca81bc90c86ff2153111ac188) <br>
-[promise и чеининг](https://github.com/Dimdim28/chaining) <br>
-[таймеры](https://github.com/Dimdim28/timers) <br>
-[События](https://github.com/Dimdim28/events) <br>
-[MixIn](https://github.com/Dimdim28/mixin) <br>
-[Proto](https://github.com/Dimdim28/proto) <br>
-[Pools, fabrics](https://github.com/Dimdim28/Pools_fabrics) <br>
-[Телеграм бот](https://github.com/Dimdim28/telegram_bot) <br>
-[создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
-[collections(weak,map,weakmap)](https://github.com/Dimdim28/collections) <br>
+[6   promise и чеининг](https://github.com/Dimdim28/chaining) <br>
+[7   таймеры](https://github.com/Dimdim28/timers) <br>
+[8   События](https://github.com/Dimdim28/events) <br>
+[9   MixIn](https://github.com/Dimdim28/mixin) <br>
+[10  Proto](https://github.com/Dimdim28/proto) <br>
+[11  Pools, fabrics](https://github.com/Dimdim28/Pools_fabrics) <br>
+[12  Телеграм бот](https://github.com/Dimdim28/telegram_bot) <br>
+[13  создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
+[14  collections(weak,map,weakmap)](https://github.com/Dimdim28/collections) <br>
 
 
 
