@@ -27,6 +27,7 @@
 [12  Телеграм бот](https://github.com/Dimdim28/telegram_bot) <br>
 [13  создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
 [14  collections(weak,map,weakmap)](https://github.com/Dimdim28/collections) <br>
+[15  RegExp](https://github.com/Dimdim28/RegExp) <br>
 
 
 
