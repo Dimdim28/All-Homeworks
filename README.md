@@ -28,7 +28,7 @@
 [13  создание заметок, запись их в файл, чтение, работа с ними](https://github.com/Dimdim28/notes_and_adding_to_file) <br>
 [14  collections(weak,map,weakmap)](https://github.com/Dimdim28/collections) <br>
 [15  RegExp](https://github.com/Dimdim28/RegExp) <br>
-
+[16 this(also call,bind,apply)](https://github.com/Dimdim28/this-call-bind-apply) <br>
 
 
 #  еще в процессе создания...
