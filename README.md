@@ -8,7 +8,9 @@
 [7. Работа с массивами](https://github.com/Dimdim28/Lab7-array) <br>
 [8. функции высшего порядка](https://github.com/Dimdim28/Lab8-highOrderfFunctions) <br>
 
+#  Курсовая:
 
+[Написанные на джс танчики ](https://github.com/Dimdim28/Tanks.js) <br>
 
 
 #  Дополнительная работа
@@ -33,7 +35,6 @@
 
 #  еще в процессе создания...
 
-[Парсер на cheerio (на примере сайта EpicGames)](https://github.com/Dimdim28/parser_from_EpicGames) <br>
 
 
 # 2 неделя
